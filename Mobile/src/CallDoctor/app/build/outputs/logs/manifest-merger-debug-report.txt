@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:7:22-64
+uses-feature#android.hardware.telephony
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:10:9-50
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:18:22-76
+application
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:20:5-64:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\Moushan\.android\build-cache\a787816d1ecb4bd56971bbb2c064aeb4717148b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Moushan\.android\build-cache\c4a7b6b3db0f10f64fcd85b228b90116dfe9bed4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Moushan\.android\build-cache\04b701b6f3e37a1bb9d437efaa38159c1387ba6d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Moushan\.android\build-cache\9688c217d7ec27e1ba27417e5a7964c891beb83d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Moushan\.android\build-cache\d4601f30f93c08e78764cdd4cbae2333dc405520\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\Moushan\.android\build-cache\1040f7ea26950e96f2cf4d5b42b56255c625cac0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Moushan\.android\build-cache\246b09d237a4197b803084258d35b3ed0e0cc3fb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Moushan\.android\build-cache\08c65b205cf90efa798a9f443fcf42d7d24024ee\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Moushan\.android\build-cache\e88987bfcd31629820db306c1acbeed502d8ed5c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Moushan\.android\build-cache\b74afb87c2dbe987fa51c9970ae899993a88e11f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Moushan\.android\build-cache\829b7d1f16e43d1b476277e5a572de648b62f361\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Moushan\.android\build-cache\ab4117652944507ec6a854b8664b30530bca0ed9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Moushan\.android\build-cache\45f4b4d223e0e17bf8221b5078d6a9e0575540c7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Moushan\.android\build-cache\adc2630dfc186a1d07f7a7866190830dd09b9799\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.cse.calldoctor.MainActivity
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.cse.calldoctor.SearchDoctor
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:33:9-35:45
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:35:13-42
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.cse.calldoctor.SignUp
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:36:9-38:39
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:37:13-35
+activity#com.cse.calldoctor.ResultActivity
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:39:9-41:43
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:41:13-40
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:40:13-43
+activity#com.cse.calldoctor.DoctorDetails
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:42:9-45:76
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:44:13-49
+	android:theme
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:45:13-73
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:43:13-42
+activity#com.cse.calldoctor.About
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:46:9-48:37
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:48:13-34
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:47:13-34
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:57:9-59:55
+	android:value
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:59:13-52
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:58:13-58
+activity#com.cse.calldoctor.MapsActivity
+ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:61:9-63:59
+	android:label
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from D:\CallDoctor\app\src\main\AndroidManifest.xml:62:13-41
+uses-sdk
+INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] C:\Users\Moushan\.android\build-cache\a787816d1ecb4bd56971bbb2c064aeb4717148b3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Moushan\.android\build-cache\c4a7b6b3db0f10f64fcd85b228b90116dfe9bed4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Moushan\.android\build-cache\04b701b6f3e37a1bb9d437efaa38159c1387ba6d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Moushan\.android\build-cache\9688c217d7ec27e1ba27417e5a7964c891beb83d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Moushan\.android\build-cache\8ef07e28252ac67469975831ff3d7640018682f9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Moushan\.android\build-cache\d4601f30f93c08e78764cdd4cbae2333dc405520\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\Moushan\.android\build-cache\1040f7ea26950e96f2cf4d5b42b56255c625cac0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Moushan\.android\build-cache\246b09d237a4197b803084258d35b3ed0e0cc3fb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Moushan\.android\build-cache\08c65b205cf90efa798a9f443fcf42d7d24024ee\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Moushan\.android\build-cache\e88987bfcd31629820db306c1acbeed502d8ed5c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Moushan\.android\build-cache\b74afb87c2dbe987fa51c9970ae899993a88e11f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Moushan\.android\build-cache\829b7d1f16e43d1b476277e5a572de648b62f361\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Moushan\.android\build-cache\ab4117652944507ec6a854b8664b30530bca0ed9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Moushan\.android\build-cache\45f4b4d223e0e17bf8221b5078d6a9e0575540c7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Moushan\.android\build-cache\adc2630dfc186a1d07f7a7866190830dd09b9799\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\Moushan\.android\build-cache\a787816d1ecb4bd56971bbb2c064aeb4717148b3\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CallDoctor\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Moushan\.android\build-cache\5ffb8e0e2a27630740ff3ea9da668963c03893e8\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Moushan\.android\build-cache\7428f77dfd5233b2eabc3529caa7934224592ddc\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Moushan\.android\build-cache\08c65b205cf90efa798a9f443fcf42d7d24024ee\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Moushan\.android\build-cache\08c65b205cf90efa798a9f443fcf42d7d24024ee\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Moushan\.android\build-cache\08c65b205cf90efa798a9f443fcf42d7d24024ee\output\AndroidManifest.xml:20:20-65
